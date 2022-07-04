@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 50px;
+
+}
+p{
+    font-size: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+
+}
+span{
+    color: orange;
+}
+a{
+    color: white;
+    background-image: linear-gradient( orange, tomato );
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 20px;
+    
+}
+
+#st-sec{
+    display: flex;
+   
+}
+
+.st-div{
+    width: 50%;
+    margin: 100px 50px 50px 50px;
+
+}
+
+.nd-div{
+    width: 50%;
+
+
+}
+.nd-div img{
+    width: 400px;
+}
+
+
+#nd-sec{
+    display: flex;
+    margin-top: 30px;
+    background-image: url(images/7.png);
+    margin-left: 50px;
+    margin-bottom: 100px;
+
+
+}
+
+.img-about{
+    width: 50%;
+   
+}
+.img-about img{
+    width: 400px;
+    padding-left: 40px;
+    padding-top: 30px;
+
+}
+
+.about-me{
+    width: 50%;
+    padding-top: 50px;
+
+}
+
+.about-me p{
+    padding-right: 150px;
+}
+
+
+.recipi{
+   
+   
+}
+.recipi h1{
+    text-align: center;
+}
+.recipi p{
+    text-align: center;
+    margin: 0px 300px;
+}
+
+
+#rd-sec{
+    display: flex;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.left-card{
+    width: 35%;
+    margin-left: 5%;
+    border: 10px solid white;
+        border-radius: 10px;
+        box-shadow: 8px 12px 12px 12px gray;
+}
+
+.food-img{
+    width: 250px;
+    height: 150px;
+    margin-left: 70px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.right-card{
+    width: 35%;
+    margin-right: 5%;
+    margin-left: 5%;
+    border: 10px solid white;
+    border-radius: 10px;
+    box-shadow: 8px 12px 12px 12px gray;
+
+}
+.head{
+    text-align: center;
+}
+.para{
+    text-align: center;
+}
+
+
+.popular{
+    height: 200px;
+
+    margin: 50px;
+    box-shadow: 12px 12px  12px 12px gray;
+
+}
+
+.yt{
+    width: 20%;
+    float: left;
+    padding: 50px;
+    margin-left: 100px;
+   
+}
+
+.insta{
+    width: 20%;
+    float: left;
+    padding: 50px;
+
+}
+
+.dribble{
+    width: 20%;
+    float: left;
+    padding: 50px;
+
+}
+
+footer{
+
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+}
+
+.font{
+    text-align: center;
+    color: white;
+}
